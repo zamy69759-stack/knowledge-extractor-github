@@ -1,0 +1,4 @@
+interface:
+  display_name: "良木企业知识萃取"
+  short_description: "从多格式企业产品资料生成并维护 Excel 主知识库"
+  default_prompt: "Use $liangmu-knowledge-extractor to extract or update one product series knowledge base."
